@@ -12,4 +12,4 @@ MyTodo is a simple command-line todo list application built with Node.js and the
 
 You can run MyTodo directly using `npx` without installing it globally. Simply open your terminal and enter the following command:
 ```bash
-npx mytodo-cli
+npx hraza9-todos
